@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
