@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0432-all-oone-data-structure](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0432-all-oone-data-structure) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
