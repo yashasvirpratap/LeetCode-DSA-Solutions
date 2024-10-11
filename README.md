@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
