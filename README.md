@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1651-shuffle-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2102-find-the-middle-index-in-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
