@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1013-fibonacci-number](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
