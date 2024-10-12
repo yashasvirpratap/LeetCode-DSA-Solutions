@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0432-all-oone-data-structure) |
 ## Design
 |  |
@@ -118,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
