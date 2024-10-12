@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0724-find-pivot-index](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0342-power-of-four) |
 | [1054-complement-of-base-10-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1054-complement-of-base-10-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
