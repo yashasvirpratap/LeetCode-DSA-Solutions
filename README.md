@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/2102-find-the-middle-index-in-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
