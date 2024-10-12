@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0792-binary-search) |
 | [1651-shuffle-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1651-shuffle-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
