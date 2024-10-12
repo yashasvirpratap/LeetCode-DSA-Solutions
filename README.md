@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0155-min-stack) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
