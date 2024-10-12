@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0432-all-oone-data-structure](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0432-all-oone-data-structure) |
 ## Design
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
