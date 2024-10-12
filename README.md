@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
