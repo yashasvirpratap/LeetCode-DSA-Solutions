@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1651-shuffle-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1651-shuffle-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0432-all-oone-data-structure](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1319-unique-number-of-occurrences) |
