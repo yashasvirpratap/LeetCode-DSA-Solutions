@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0432-all-oone-data-structure](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
