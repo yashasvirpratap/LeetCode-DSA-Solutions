@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
