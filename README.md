@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
