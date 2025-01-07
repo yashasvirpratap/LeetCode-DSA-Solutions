@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1651-shuffle-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1651-shuffle-string) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
