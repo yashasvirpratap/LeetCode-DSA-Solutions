@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1651-shuffle-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
