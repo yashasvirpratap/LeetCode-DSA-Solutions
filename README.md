@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0389-find-the-difference) |
 | [1018-largest-perimeter-triangle](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/yashasvirpratap/LeetCode-DSA-Solutions/tree/master/1054-complement-of-base-10-integer) |
 ## Prefix Sum
 |  |
