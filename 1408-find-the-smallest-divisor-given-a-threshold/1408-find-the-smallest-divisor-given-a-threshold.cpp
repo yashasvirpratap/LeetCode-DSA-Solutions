@@ -6,7 +6,7 @@ public:
             int sum=0;
             int mid=s+(e-s)/2;
             for(int i=0;i<nums.size();i++){
-              sum+=  (nums[i]+mid-1)/mid;
+              sum+=  ceil((double) nums[i]/(double)mid);
             }
             if(sum>threshold){
                 s=mid+1;
